@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "redux-undo-history"
+    }
+  },
+  "defaultProject": "redux-undo-history",
+  "cli": {
+    "analytics": false
+  }
 }
